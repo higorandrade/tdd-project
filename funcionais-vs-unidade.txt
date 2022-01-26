@@ -1,0 +1,2 @@
+1. Testes funcionais garantem que o que está sendo implementado está de acordo com as especificações do projeto;
+2. Testes de unidade garantem que a implementação de uma determinada funcionalidade está correta.
