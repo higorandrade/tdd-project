@@ -1,0 +1,4 @@
+Iniciamos o processo escrevendo o teste. A princípio, o teste irá falhar, então codificamos o mínimo possível
+a fim de que o teste passe, uma vez que o teste passa, avaliamos se o código escrito precisa de refatoração,
+caso positivo, refatoramos o código minimamente e executamos o teste novamente, até que não seja necessário
+mais nenhum ajuste.
